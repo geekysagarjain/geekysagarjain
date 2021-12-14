@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geekysagarjain
+- 👋 Hi, I’m Sagar Jain
 - 👀 I’m interested in computer networking
 - 🌱 I’m currently learning OpenWrt
 - 💞️ I’m looking to collaborate on OpenWrt network solutions
